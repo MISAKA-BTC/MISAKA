@@ -1,0 +1,16 @@
+{
+  "name": "Misaka",
+  "symbol": "MISAKA",
+  "description": "The Misaka meme coin on Solana.",
+  "image": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
