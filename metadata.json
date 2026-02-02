@@ -1,16 +1,14 @@
 {
-  "name": "Misaka",
+  "name": "MISAKA",
   "symbol": "MISAKA",
-  "description": "The Misaka meme coin on Solana.",
-  "image": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/logo.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
+  "description": "MISAKA is a community-driven token on Solana focused on transparency, fair distribution, and long-term ecosystem growth.",
+  "image": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/coinlogo.png",
+  "external_url": "https://misaka.bolt.host",
+  "extensions": {
+    "twitter": "https://x.com/MISAKA_BTC",
+    "telegram": "https://t.me/MISAKA_BTC",
+    "discord": "https://discord.com/invite/C5WVshJH8d",
+    "dexscreener": "https://dexscreener.com/solana/hvcuswpugjg8omexyaexjs7wxf8izdwqgljqyxfehhqc",
+    "solscan": "https://solscan.io/token/4e2DhohUAJ9EbrLey3rVVgFQzLCAeeBirSbdhqrh9snX"
   }
 }
