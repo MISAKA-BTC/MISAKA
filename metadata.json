@@ -1,24 +1,24 @@
 {
-  "name": "Misaka",
-  "symbol": "MISAKA",
-  "description": "post-quantum, DAG network designed to improve resilience against both hash-power and stake-majority attack risks through hybrid PoW and PoS mechanisms.",
-  "image": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/MISAKA.png",
-  "external_url": "https://misakachain.com",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/MISAKA.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  },
-  "extensions": {
-    "website": "https://misakachain.com",
-    "twitter": "https://x.com/misakachain",
-    "telegram": "https://t.me/+h2kQ5fwlI0s2YTU0",
-    "discord": "https://discord.com/invite/C5WVshJH8d",
-    "dexscreener": "https://dexscreener.com/solana/hvcuswpugjg8omexyaexjs7wxf8izdwqgljqyxfehhqc",
-    "solscan": "https://solscan.io/token/4e2DhohUAJ9EbrLey3rVVgFQzLCAeeBirSbdhqrh9snX"
-  }
+    "name": "Misaka",
+    "symbol": "MISAKA",
+    "description": "post-quantum, DAG network designed to improve resilience against both hash-power and stake-majority attack risks through hybrid PoW and PoS mechanisms.",
+    "image": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/misaka-icon.png",
+    "external_url": "https://misakachain.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/misaka-icon.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "extensions": {
+        "website": "https://misakachain.com",
+        "twitter": "https://x.com/misakachain",
+        "telegram": "https://t.me/+h2kQ5fwlI0s2YTU0",
+        "discord": "https://discord.com/invite/C5WVshJH8d",
+        "dexscreener": "https://dexscreener.com/solana/hvcuswpugjg8omexyaexjs7wxf8izdwqgljqyxfehhqc",
+        "solscan": "https://solscan.io/token/4e2DhohUAJ9EbrLey3rVVgFQzLCAeeBirSbdhqrh9snX"
+    }
 }
