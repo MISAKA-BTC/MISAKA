@@ -1,0 +1,24 @@
+{
+  "name": "Misaka",
+  "symbol": "MISAKA",
+  "description": "MISAKA — an independent, post-quantum (PQ-only) Kaspa-family BlockDAG. Transaction authorization uses ML-DSA-87 (NIST FIPS 204, category 5); legacy secp256k1/Schnorr signatures, legacy addresses, and P2SH are disabled at the consensus layer. Testnet-10 is live; the SPL mint and freeze authority are both revoked. At mainnet, MISAKA migrates to the L1 native token MSK.",
+  "image": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/misaka-icon-v2.png",
+  "external_url": "https://misakachain.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MISAKA-BTC/MISAKA/main/misaka-icon-v2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://misakachain.com",
+    "twitter": "https://x.com/misakachain",
+    "telegram": "https://t.me/misakachain",
+    "discord": "https://discord.gg/C4nDFkJE4x",
+    "dexscreener": "https://dexscreener.com/solana/4e2DhohUAJ9EbrLey3rVVgFQzLCAeeBirSbdhqrh9snX",
+    "solscan": "https://solscan.io/token/4e2DhohUAJ9EbrLey3rVVgFQzLCAeeBirSbdhqrh9snX"
+  }
+}
